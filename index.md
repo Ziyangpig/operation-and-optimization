@@ -6,6 +6,3 @@ title: ML SLIDE NOTE
 
 [分段线性函数的线性化松弛](./分段线性函数的线性化松弛.md)
 
-[template](./template.html)
-
-
